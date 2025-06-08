@@ -1,2 +1,2 @@
 @echo off
-powershell.exe -NoProfile -ExecutionPolicy Bypass "& {& \"%~dp0scripts\Launcher.ps1\" %*}"
+powershell.exe -NoProfile -ExecutionPolicy Bypass "& {& \"%~dp0scripts\SoftwareLauncher.ps1\" %*}"
